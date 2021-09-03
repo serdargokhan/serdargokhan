@@ -7,6 +7,8 @@
 
 - 👯 I’m interested in **Blockchain**
 
+- 🤝 My goal is to be **a Blockchain Developer**
+
 - 📫 How to reach me **gokhanbakirci5353@gmail.com**
 
 - ⚡ Fun fact **I love TV series and travelling :)**
