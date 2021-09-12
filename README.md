@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript in depth**
 
-- 👯 I’m interested in **Blockchain**
+- 👯 I’m interested in **new technologies and Blockchain**
 
-- 🤝 My goal is to be **a Blockchain Developer**
+- 🤝 My goal is to be **a Full Stack Developer**
 
 - 📫 How to reach me **gokhanbakirci5353@gmail.com**
 
