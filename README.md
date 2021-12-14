@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serdar Gökhan</h1>
 <h3 align="center">A passionate software learner and a student from Turkey.</h3>
 
-- 🔭 I’m currently working on **some basic Javascript Projects**
+- 🔭 I’m currently working on **some basic React Projects**
 
-- 🌱 I’m currently learning **Javascript in depth**
+- 🌱 I’m currently learning **React in depth**
 
 - 👯 I’m interested in **new technologies and Blockchain**
 
