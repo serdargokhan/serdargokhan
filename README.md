@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar Gökhan</h1>
-<h3 align="center">A Front-End Developer.</h3>
+<h3 align="center">A Front-End Developer for now :)</h3>
 
 - 🔭 I’m currently working on **some advanced React Projects**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gokhanbakirci5353@gmail.com**
 
-- ⚡ Fun fact **I love TV series and travelling :)**
+- ⚡ Fun fact **I love TV series and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
