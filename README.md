@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serdar Gökhan</h1>
 <h3 align="center">A Front-End Developer for now :)</h3>
 
-- 🔭 I’m currently working on **some advanced React Projects**
+- 🔭 I’m currently working on **web optimization and performance**
 
-- 🌱 I’m currently learning **React frameworks and libraries**
+- 🌱 I’m currently learning **new React concurrent features and server components**
 
 - 👯 I’m interested in **new technologies and Blockchain**
 
